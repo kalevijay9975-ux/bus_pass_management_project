@@ -107,31 +107,67 @@ http://YOUR-EC2-PUBLIC-IP
 - Restrict SSH access to trusted IP addresses.
 - Use HTTPS for production deployments.
 
-## Screenshots
 
+## 📸 Screenshots
 
+### 🏠 Homepage
 
+<p align="center">
+  <img src="Screenshots/Homepage.png" width="850">
+</p>
 
+---
 
-## Screenshots
+### 🔐 Admin Login
 
-### Homepage
-![Homepage](Screenshots/Homepage.png)
+<p align="center">
+  <img src="Screenshots/Admin%20Login.png" width="850">
+</p>
 
-###  Admin Login
-![Admin Login](Screenshots/Admin%20Login.png)
+---
 
-### Dashboard
-![Dashboard](Screenshots/Dashboard.png)
+### 📊 Dashboard
 
-### Adding Pass
-![Adding Pass](Screenshots/Adding%20pass.png)
+<p align="center">
+  <img src="Screenshots/Dashboard.png" width="850">
+</p>
 
-### Added Pass
-![Added Pass](Screenshots/Added%20Pass.png)
+---
 
-### Delete User
-![Delete User](Screenshots/Delete%20User.png)
+### ➕ Adding Bus Pass
 
-### User Deleted
-![User Deleted](Screenshots/User%20deleted.png)
+<p align="center">
+  <img src="Screenshots/Adding%20pass.png" width="850">
+</p>
+
+---
+
+### ✅ Added Bus Pass
+
+<p align="center">
+  <img src="Screenshots/Added%20Pass.png" width="850">
+</p>
+
+---
+
+### 👥 More User Dashboard
+
+<p align="center">
+  <img src="Screenshots/More%20user%20Dashboard.png" width="850">
+</p>
+
+---
+
+### 🗑️ Delete User
+
+<p align="center">
+  <img src="Screenshots/Delete%20user.png" width="850">
+</p>
+
+---
+
+### ✅ User Deleted
+
+<p align="center">
+  <img src="Screenshots/Deleted%20user.png" width="850">
+</p>
